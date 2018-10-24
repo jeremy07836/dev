@@ -1,4 +1,4 @@
-# dev
+# Created By Jeremy Nearing
 
 ## Ravenous Website
 To run the website ravenous I used the chrome plugin: 'Allow-Control-Allow-Origin'  
